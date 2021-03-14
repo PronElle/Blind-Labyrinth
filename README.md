@@ -1,6 +1,6 @@
 # Blind Labyrinth 
 <p align="center">
- <img alt="Languages" src="https://img.shields.io/badge/Languages-C | Assembler-orange"/>
+ <img alt="Languages" src="https://img.shields.io/badge/Languages-C | Assembly-orange"/>
  <img alt="Status" src="https://img.shields.io/badge/development-completed-green"/>
 </p>
 
