@@ -1,4 +1,9 @@
 # Blind Labyrinth 
+<p align="center">
+ <img alt="Languages" src="https://img.shields.io/badge/Languages-C | Assembler-orange"/>
+ <img alt="Status" src="https://img.shields.io/badge/development-completed-green"/>
+</p>
+
 
 Extra points projects for the course of "Architetture dei Sistemi di Elaborazione" (Computer Architectures) at Politecnico di Torino.
 
