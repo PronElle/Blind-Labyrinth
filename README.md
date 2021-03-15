@@ -27,3 +27,11 @@ The game is available in two versions:
 
 Take a look at the ```doc``` folder for a complete description of the specifications. 
 
+## How to use
+The project was developed on Keil uVision 5 running on a Windows 10 virtual machine. 
+
+To use it, simply clone the repository on your machine 
+
+``` git clone https://github.com/PronElle/Blind-Labyrinth```
+
+and open it with Keil uVision (double click on ```sample.uvprojx``` file).
