@@ -4,6 +4,7 @@
  <img alt="Status" src="https://img.shields.io/badge/development-completed-green"/>
 </p>
 
+![](screenshots/demo.gif)
 
 Extra points projects for the course of "Architetture dei Sistemi di Elaborazione" (Computer Architectures) at Politecnico di Torino.
 
@@ -17,7 +18,7 @@ The game is available in two versions:
 
 - **basic version** : the user controls the robot only using buttons KEY1, KEY2 and INT0 to move or rotate the player. The LEDs blink at different frequencies according to current direction and distance from obstacle.
 
-- **advanced version** : the user drives the robot using the joystick. The map is displayed on the touchscreen display. The proximity sensor only displays obstacles in the nearby. 
+- **advanced version** : the user drives the robot using the joystick. The map is displayed on the touchscreen display. The proximity sensor only displays obstacles in the nearby. Pressing the joystick, the robot switches mode (and color): now it only reveals obstacles in the nearby without moving. Pressing again it goes back to moving mode.
 
   <div align="center">
       <img src="screenshots/fig1.png" width="180px" height="250px"</img> 
