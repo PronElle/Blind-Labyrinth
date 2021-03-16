@@ -23,9 +23,9 @@ The game is available in two versions:
 - **advanced version** : the user drives the robot using the joystick. The map is displayed on the touchscreen display. The proximity sensor only displays obstacles in the nearby. Pressing the joystick, the robot switches mode (and color): now it only reveals obstacles in the nearby without moving. Pressing again it goes back to moving mode.
 
   <div align="center">
-      <img src="screenshots/fig1.png" width="180px" height="250px"</img> 
-      <img src="screenshots/fig2.png" width="180px" height="250px"</img> 
-      <img src="screenshots/fig3.png" width="180px" height="250px"</img> 
+      <img width="180px" height="250px" src="screenshots/fig1.png" </img> &nbsp &nbsp
+      <img width="180px" height="250px" src="screenshots/fig2.png" </img> &nbsp &nbsp
+      <img width="180px" height="250px" src="screenshots/fig3.png" </img> &nbsp &nbsp
   </div>
 
 Take a look at the ```doc``` folder for a complete description of the specifications. 
