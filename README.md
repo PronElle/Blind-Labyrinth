@@ -4,7 +4,9 @@
  <img alt="Status" src="https://img.shields.io/badge/development-completed-green"/>
 </p>
 
-![](screenshots/demo.gif)
+<p align="center">
+  <img src="screenshots/demo.gif" alt="animated" />
+</p>
 
 Extra points projects for the course of "Architetture dei Sistemi di Elaborazione" (Computer Architectures) at Politecnico di Torino.
 
